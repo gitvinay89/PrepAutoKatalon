@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Prep Login</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>8f618af9-6195-45c9-9772-491ca7f8d1df</testCaseGuid>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>531f7854-761c-4699-928d-0a255a8305e5</id>
+      <masked>false</masked>
+      <name>Username</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>421f75fe-e962-45b9-bb83-9a8124f2d8c5</id>
+      <masked>false</masked>
+      <name>Password</name>
+   </variable>
+</TestCaseEntity>

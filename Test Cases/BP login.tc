@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>BP login</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>20077bde-e67f-48d7-b8db-0135539ad892</testCaseGuid>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>e62c652b-e651-430f-a5da-8033f5daed5e</id>
+      <masked>false</masked>
+      <name>username</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>5b31a08b-7b96-44e1-910c-18e15c6a14e7</id>
+      <masked>false</masked>
+      <name>password</name>
+   </variable>
+</TestCaseEntity>
